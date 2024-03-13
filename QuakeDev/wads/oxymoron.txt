@@ -1,0 +1,11 @@
+24 July 2004
+
+Contains Textures Created by Matt "Lunaran" Breit
+Http://www.lunaran.com
+
+These are from Lun's LunDoom texture set, heavily
+modified and with quite a few extra textures made 
+by me to enable you to use the set in SP Quake
+
+-- Converted by Starbuck
+   http://www.planetquake.com/starbuck/
