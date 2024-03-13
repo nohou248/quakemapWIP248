@@ -1,0 +1,82 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: NoahHoustonDeadShip2Tex.map
+Output file: NoahHoustonDeadShip2Tex.bsp
+
+---- LoadMapFile ----
+         1819 faces
+          328 brushes
+          157 entities
+            9 unique texnames
+          231 texinfo
+
+Opened WAD: ../wads/oxymoron.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          325 brushes
+          318 planes
+---- CSGFaces ----
+         1801 brushfaces
+         1422 csgfaces
+         1195 mergedfaces
+---- SolidBSP ----
+         2076 split nodes
+          973 solid leafs
+         1101 empty leafs
+            3 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         3381 leaffaces
+         3214 nodefaces
+---- Portalize ----
+         1104 vis leafs
+         1104 vis clusters
+         2508 vis portals
+---- FillOutside ----
+          772 outleafs
+---- MergeAll ----
+          772 mergefaces
+---- SolidBSP ----
+          558 split nodes
+          341 solid leafs
+          215 empty leafs
+            3 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         1500 leaffaces
+         1206 nodefaces
+---- Portalize ----
+          218 vis leafs
+          218 vis clusters
+          511 vis portals
+---- Tjunc ----
+         1226 world edges
+         4193 edge points
+          912 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+Processing hull 2...
+---- WriteBSPFile ----
+Wrote NoahHoustonDeadShip2Tex.bsp
+          536 planes            10720
+         1560 vertexes          18720
+          561 nodes             13464
+          148 texinfo            5920
+         1206 faces             24120
+         1444 clipnodes         11552
+          225 leafs              6300
+         1500 marksurfaces       3000
+         5608 surfedges         22432
+         2809 edges             11236
+            9 textures         109200
+              lightdata             0
+              visdata               0
+              entdata           12250
+
+0.380 seconds elapsed
+Peak memory usage: 12474092 (11.9M)
